@@ -25,4 +25,4 @@ CopyTrust — это удобное приложение для уведомле
 5. Создайте Pull Request.
 
 6. ## Контакты 📧
-- **Seraf1m**: [Telegram](t.me/hor1zonov)
+- **Seraf1m**: [Telegram](https://t.me/hor1zonov)
